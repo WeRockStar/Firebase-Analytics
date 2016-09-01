@@ -1,4 +1,4 @@
-package com.werocksta.firebaseanalytics;
+package com.werockstar.firebaseanalytics;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
